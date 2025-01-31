@@ -108,11 +108,11 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Author
-Your Name
+Simeon Moses
 
 Email: simeonedet89@gmail.com
 
-GitHub: yourusername
+GitHub: simiCodey
 
 Acknowledgments
 Thanks to HNG for the inspiration.
